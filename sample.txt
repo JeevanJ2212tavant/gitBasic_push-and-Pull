@@ -1,1 +1,2 @@
 pushing to remote repository
+pulling from remote to local
